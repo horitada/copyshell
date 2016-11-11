@@ -1,3 +1,4 @@
+﻿
 $DebugPreference = "Continue"
 $path = 'C:\xampp\htdocs\NetCommons-2.4.2.1\html\webapp\modules' #対象のルートディレクトリパス
 $before = 'announcement' #コピー対象モジュール
